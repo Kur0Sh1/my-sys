@@ -39,7 +39,7 @@ xfce4-notifyd
 
 #sound
 alsa-utils 
-
+pulseaudio
 
 
 #internet
@@ -47,7 +47,8 @@ Firefox
 Thunderbird
 
 #Video 
-Mplayer
+vlc
+qt4
 
 
 #Office
